@@ -1,0 +1,12 @@
+
+<MDME>
+	<page id="Common">
+		<element  id="HPE EMDM UI">
+
+			<identifiedby>xpath</identifiedby>
+
+			<value>//h4[text()='HPE EMDM UI']</value>
+
+		</element>
+	</page>
+</MDME>
